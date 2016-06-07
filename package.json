@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "THis \u001b[A\u001b[A\u001b[B\u001b[Bis a test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm save --install botbuilder"
+  },
+  "keywords": [
+    "botbuilder"
+  ],
+  "author": "unknown",
+  "license": "ISC"
+}
